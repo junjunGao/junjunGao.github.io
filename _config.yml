@@ -1,9 +1,10 @@
 # Site settings
-title: junjunGao
+title: BELLO
 description: >
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
+  尝试做能力之外的事
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "junjunGao.github.io" # the base hostname & protocol for your site
@@ -19,3 +20,6 @@ author:
 
 # Build settings
 markdown: kramdown
+
+# Time Zone
+timezone: TIMEZONE
