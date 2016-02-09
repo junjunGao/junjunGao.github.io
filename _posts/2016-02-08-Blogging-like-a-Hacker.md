@@ -13,6 +13,7 @@ title: Blogging like a Hacker
 
 - 肉眼可见的`github pages`主页就是`xxx.github.io`下的`index.html`。
 - 我简单地修改了**标题**等属性。
+- Typora只支持本地图片拖拽。.md上传到站点后需要显示的图片要手动解决。
 
 ### Trouble:
 
