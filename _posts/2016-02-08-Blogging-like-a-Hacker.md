@@ -18,7 +18,7 @@ title: Blogging like a Hacker
 
 下图中是Typora编辑时的显示，实际提交的效果小框框都不见了:(
 
- ![1](/Users/Jane/Desktop/1.png)
+ ![1.png](https://github.com/junjunGao/junjunGao.github.io/blob/master/pictures/1.png)
 
 **Slover**
 
