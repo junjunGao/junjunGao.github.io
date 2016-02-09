@@ -16,7 +16,9 @@ title: Blogging like a Hacker
 
 ### Trouble:
 
-下图中是Typora编辑时的显示，实际提交的效果小框框都不见了:(![792C6DE9-4555-43E8-866E-DEA6032E6880](/Users/Jane/Desktop/792C6DE9-4555-43E8-866E-DEA6032E6880.png)
+下图中是Typora编辑时的显示，实际提交的效果小框框都不见了:(
+
+ ![1](/Users/Jane/Desktop/1.png)
 
 **Slover**
 
