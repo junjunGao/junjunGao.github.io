@@ -19,7 +19,7 @@ title: Blogging like a Hacker
 
 下图中是Typora编辑时的显示，实际提交的效果小框框都不见了:(
 
- ![1](https://github.com/junjunGao/junjunGao.github.io/blob/master/pictures/1.png?raw=true)
+ ![1.png](https://photos-4.dropbox.com/t/2/AAC-GrT5lNPL4pS1FeU0TJUKkJCDW5TZAlT2aW99fQGCuw/12/283221985/png/32x32/1/_/1/2/1.png/ENjCpJACGN4BIAcoBw/qoMRnVECX-XwvXOA0XdT1m8ArUxEghi1qME-HpH-gio?size=1280x960&size_mode=3)
 
  
 
