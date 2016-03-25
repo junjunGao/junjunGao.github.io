@@ -1,0 +1,6 @@
+_site
+.sass-cache
+<<<<<<< HEAD
+Gemfile.lock
+=======
+>>>>>>> 41f83a5a56833406e977ceee0ea6f98fd0697466
