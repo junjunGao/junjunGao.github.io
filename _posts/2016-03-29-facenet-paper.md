@@ -2,7 +2,7 @@
 title: "论文笔记—FaceNet:A Unified Embedding for Face Recognition and Clustering"
 ---
 
-![Shiori](https://cloud.githubusercontent.com/assets/992008/3955483/2b9a77ae-2702-11e4-9f28-6afb051271de.png)
+![Facenet](https://raw.githubusercontent.com/junjunGao/junjunGao.github.io/master/pictures/facenet1.png)
 
 
 ## Introduction
