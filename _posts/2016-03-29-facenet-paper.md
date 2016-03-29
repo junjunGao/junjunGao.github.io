@@ -2,6 +2,9 @@
 title: "论文笔记—FaceNet:A Unified Embedding for Face Recognition and Clustering"
 ---
 
+![Shiori](https://cloud.githubusercontent.com/assets/992008/3955483/2b9a77ae-2702-11e4-9f28-6afb051271de.png)
+
+
 ## Introduction
 
 [FaceNet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjp7ubb9uXLAhUM5mMKHSaxCqAQFggjMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1503.03832&usg=AFQjCNGc_8hK46EzkvB0FOZ4eqObLhD53Q&sig2=xRIbjMEzMIjKLkEFWLdgFQ&cad=rjt) 是google提出的一个用于脸部识别及其他功能的模型。
