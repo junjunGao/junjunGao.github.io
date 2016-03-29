@@ -1,5 +1,5 @@
 ---
-title:"论文笔记—FaceNet:A Unified Embedding for Face Recognition and Clustering"
+title: "论文笔记—FaceNet:A Unified Embedding for Face Recognition and Clustering"
 ---
 
 ## Introduction
